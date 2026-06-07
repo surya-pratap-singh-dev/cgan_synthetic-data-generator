@@ -6,6 +6,10 @@
 
 Generate realistic synthetic fraud and non-fraud financial transactions instantly. No setup needed—just click and explore.
 
+<img width="1350" height="586" alt="Screenshot 2026-06-06 035219" src="https://github.com/user-attachments/assets/24fa561b-38f4-421f-a597-d669f4723b7f" />
+
+
+
 ---
 
 ## 📌 What This Does
